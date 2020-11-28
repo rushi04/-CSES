@@ -9,11 +9,11 @@ typedef pair<long long,long long> pl;
 #define MP make_pair
 #define REP(i,a,b) for (int i = a; i <= b; i++)
 
-//Array elements are in the range from 1 to n. One number from set {1, 2, …n} is missing and one number occurs twice in the array. 
-//Find these two numbers.
+// merge sorted arrays 
+// constant space 
+// focus on the size
 
 int main()
 {
-    //find sum and square sum and solve.
     return 0;
 }
